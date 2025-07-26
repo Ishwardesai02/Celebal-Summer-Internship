@@ -1,0 +1,4 @@
+Claude is an AI model developed by Anthropic.
+Gemini is developed by Google DeepMind and supports long context.
+OpenAI created the ChatGPT model.
+RAG stands for Retrieval Augmented Generation.
